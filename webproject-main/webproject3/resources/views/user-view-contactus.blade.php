@@ -173,7 +173,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                      <h3>About Us</h3>
                      <ul class="about_us">
-                        <li>QuangHai<br>Ha Quy Duong <br><br></li>
+                        <li>QuangHai<br>Ha Quy Duong 2l3 <br><br></li>
                      </ul>
                   </div>
                   <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
